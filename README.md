@@ -2,55 +2,38 @@
 # Unit 19 React Homework: Employee Directory
 ![Users Directory](https://user-images.githubusercontent.com/59750392/85652646-54e7d900-b679-11ea-9cf8-7f3d13090c98.PNG)
 
+Repository Github link The Github Repo is at:  https://github.com/Andrewjhrussell/WeatherBroad.git
 
-## Overview
+https://userdirectory1.herokuapp.com/
 
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+Title: Weather Dashboard
 
-## User Story
+Badges Description In this assignment, I create a
 
-* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+Table of contents Title, Description, Table Of Content, Installion, Usage, License, Contribution Test, Question, Demo
 
-## Business Context
+Installation
 
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+Usage This Website lets users input the names of burgers they'd like to eat.
 
-## Acceptance Criteria
+Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured.
 
-Given a table of random users, when the user loads the page, a table of employees should render. 
+Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
 
-The user should be able to:
+Your app will store every burger in a database
 
-  * Sort the table by at least one category
+License MIT License
 
-  * Filter the users by at least one property.
+Copyright (c) 2020 Andrew Russell
 
-## Commit Early and Often
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
+Contribution Andrew Russell
 
-Follow these guidelines for committing:
+Test Travis CI
 
-* Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
-
-* Don't commit half done work, for the sake of your collaborators (and your future self!)
-
-* Test your application before you commit to ensure functionality at every step in the development process
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
-
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* the URL to the deployed application
-
-* the URL to the Github repository
-
+If you have any questions email us @ Andrewjhrussell@gmail.com
