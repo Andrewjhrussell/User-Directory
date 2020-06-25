@@ -2,7 +2,7 @@
 # Unit 19 React Homework: Employee Directory
 ![Users Directory](https://user-images.githubusercontent.com/59750392/85652646-54e7d900-b679-11ea-9cf8-7f3d13090c98.PNG)
 
-Repository Github link The Github Repo is at:  https://github.com/Andrewjhrussell/WeatherBroad.git
+Repository Github link The Github Repo is at:  https://github.com/Andrewjhrussell/User-Directory.git
 
 https://userdirectory1.herokuapp.com/
 
