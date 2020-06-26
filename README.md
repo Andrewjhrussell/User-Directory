@@ -6,21 +6,17 @@ Repository Github link The Github Repo is at:  https://github.com/Andrewjhrussel
 
 Heroku Link: https://userdirectory1.herokuapp.com/
 
-Title: Weather Dashboard
+Title: User Directory
 
-Badges Description In this assignment, I create a
+Badges Description In this assignment, 
+ I created a employee directory with React. This assignment I break up application's UI into components, manage component state, and respond to user events.
 
 Table of contents Title, Description, Table Of Content, Installion, Usage, License, Contribution Test, Question, Demo
 
-Installation
 
-Usage This Website lets users input the names of burgers they'd like to eat.
+Usage This Website:
+Lets users view there entire employee directory at once so that I have quick access to their information.
 
-Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured.
-
-Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
-
-Your app will store every burger in a database
 
 License MIT License
 
